@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "amritbir1@gmail.com",
+    "longName": "face",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "face",
+    "uuid": "57106bd5-d99a-4056-9000-00cdcb4beb87",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
